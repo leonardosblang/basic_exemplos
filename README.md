@@ -1,2 +1,2 @@
-# basic_exemplos
-exemplos da linguagem de programação basic
+# Exemplos Basic
+ Inclui exemplos de declaração de variáveis,GOTO, IF-ELSE, FOR e INPUT.
